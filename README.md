@@ -8,7 +8,7 @@ A simple content slider with depth-like zoom functionality for a predefined area
 
 The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
 
-Check out all of our Blueprints [here](http://tympanus.net/codrops/category/blueprints/)
+View the [Blueprints archive] (http://tympanus.net/codrops/category/blueprints/)
 
 ## License
 
